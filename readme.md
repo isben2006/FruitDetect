@@ -1,12 +1,12 @@
 # FruitDetect
 
- Add short description of project here > 
+This project consists of a script that opens a camera and is able to detect and recognise three different types of fruit: Apples, bananas and lemmons. This can be used in agriculture as farmers can use this tool to detect the grown crops with a camera so they don't have to check everyday walking through the crops.
 
-![add image descrition here](direct image link here)
+
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+This project uses the detectnet model to identify this three fruits. It was trained with 300 images, 100 per class and 10 epochs to make it precise and accurate. This project also includes a script to run the camera and test the model.
 
 ## Running this project
 
