@@ -1,4 +1,4 @@
-# Project Name
+# FruitDetect
 
  Add short description of project here > 
 
