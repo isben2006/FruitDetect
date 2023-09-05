@@ -31,4 +31,7 @@ git clone https://github.com/isben2006/FruitDetect
 ```
 python3 fruit-detect.py
 ```
-[View a video explanation here](video link)
+
+INSTALLATION GUIDE:
+https://youtu.be/MzjaylCofSg
+
