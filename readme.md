@@ -11,16 +11,24 @@ This project uses the detectnet model to identify this three fruits. It was trai
 ## Running this project
 
 1. Install git and cmake if you don't have them yet.
-   
 ```     
 sudo aptinstall git all
 sudo apt install cmake
 ```
 
+2. Clone the jetson-inference folder into your home directory.
+```
+git clone https://github.com/dusty-nv/jetson-inference
+cd jetson-inference
+```
 
+3. Inside your jetson-inference folder clone this project
+```
+git clone https://github.com/isben2006/FruitDetect
+```
 
-3. Clone the jetson-inference folder into your nano.
-   
-4. Make sure to include any required libraries that need to be installed for your project to run.
-
+4. Connect your usb camera, move to the FruitDetect project and run the script.
+```
+python3 fruit-detect.py
+```
 [View a video explanation here](video link)
