@@ -12,7 +12,7 @@ This project uses the detectnet model to identify this three fruits. It was trai
 
 1. Install git and cmake if you don't have them yet.
 ```     
-sudo aptinstall git all
+sudo apt install git all
 sudo apt install cmake
 ```
 
