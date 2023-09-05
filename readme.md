@@ -31,6 +31,7 @@ git clone https://github.com/isben2006/FruitDetect
 ```
 python3 fruit-detect.py
 ```
+After a few minutes, a video display will show up in your screen. You can now test the model buy showing to the camera an apple, a banana or a lemmon.
 
 INSTALLATION GUIDE:
 https://youtu.be/MzjaylCofSg
