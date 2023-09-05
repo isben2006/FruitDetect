@@ -10,7 +10,17 @@ This project uses the detectnet model to identify this three fruits. It was trai
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. Install git and cmake if you don't have them yet.
+   
+```     
+sudo aptinstall git all
+sudo apt install cmake
+```
+
+
+
+3. Clone the jetson-inference folder into your nano.
+   
+4. Make sure to include any required libraries that need to be installed for your project to run.
 
 [View a video explanation here](video link)
