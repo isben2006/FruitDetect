@@ -6,7 +6,7 @@ This project consists of a script that opens a camera and is able to detect and 
 
 ## The Algorithm
 
-This project uses the detectnet model to identify this three fruits. It was trained with 300 images, 100 per class and 10 epochs to make it precise and accurate. This project also includes a script to run the camera and test the model.
+This project uses the detectnet model to identify these three fruits. It was trained with 300 images, 100 per class and 10 epochs to make it precise and accurate. This project also includes a script to run the camera and test the model.
 
 ## Running this project
 
@@ -31,7 +31,7 @@ git clone https://github.com/isben2006/FruitDetect
 ```
 python3 fruit-detect.py
 ```
-After a few minutes, a video display will show up in your screen. You can now test the model buy showing to the camera an apple, a banana or a lemmon.
+After a few minutes, a video display will show up in your screen. You can now test the model by showing to the camera an apple, a banana or a lemmon.
 
 INSTALLATION GUIDE:
 https://youtu.be/MzjaylCofSg
